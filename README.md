@@ -1,6 +1,10 @@
 # Portfolio
 iOS Development Portfolio
 
+<b>THE CITY</b>
+<br/>
+I went into this class never have taken any computer science class. Although it is simple, this app was my first real project, and I was very proud of it. I learned how to add images and text to the screen, and how to constrain objects properly.` 
+
 <b>MEMORIZATION</b>
 <br/>
 After learning the basics of swift and Xcode, I decided to make my own game, something simple but fun. I ended up choosing a matching game because it's a game that people want to play. Besides coding the app, making the game taught me about the whole app making process, like making an app icon and UI design.
